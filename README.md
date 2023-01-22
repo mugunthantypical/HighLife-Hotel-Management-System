@@ -1,7 +1,6 @@
 # CAT 201 - Project - HighLife Hotel Management System
 
 <div align="center">
-<img src="https://ibb.co/THjWG4X" >
 <strong><p>Desktop Application to Manage the reservations and Guest Check-in or Check-Out Using JavaFX and SQL Database with Hibernate ORM. </p></strong>
 </div>
 
@@ -27,6 +26,11 @@
 3. Run the Program using [Project.java](/src/project/Project.java).
 
 ### Login Details
-<div align="center">
-<img src="https://ibb.co/kS7dpyJ" >
-</div>
+
+i. username: mugu - password: 1994
+    
+ii. username: thanees - password: 3333
+    
+iii. username: veytri - password: 9991
+   
+iv. username: bryon - password: 2002
