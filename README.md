@@ -1,5 +1,3 @@
-# CAT 201 - Project - HighLife Hotel Management System
-
 <div align="center">
 <strong><p>Desktop Application to Manage the reservations and Guest Check-in or Check-Out Using JavaFX and SQL Database with Hibernate ORM. </p></strong>
 </div>
