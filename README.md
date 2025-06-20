@@ -1,4 +1,3 @@
-Collecting workspace informationFiltering to most relevant information```md
 # HighLife Hotel Management System
 
 <div align="center">
